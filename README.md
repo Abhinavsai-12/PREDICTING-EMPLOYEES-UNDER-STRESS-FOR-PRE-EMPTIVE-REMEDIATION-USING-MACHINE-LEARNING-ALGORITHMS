@@ -13,7 +13,7 @@ In today's work environment, employee stress has become a significant concern fo
 The project aims to achieve several key objectives such as.. it seeks to improve employee wellbeing by identifying individual who are at risk of experiencing high stress levels and implementing pre-emptive remediation...
 
 
-**PYTHON lIBRARIES**
+**PYTHON LIBRARIES**
 1. Django (v2.2.13):
    - A high-level Python web framework for building web applications.
    - Used for creating web applications with features like user authentication, database management, and more.
